@@ -1,4 +1,4 @@
-# Taha-Youtube
+# Youtube-clone
 
 ## Purpose 
 - This project is a simple YouTube-like application that can be used to browse videos.
